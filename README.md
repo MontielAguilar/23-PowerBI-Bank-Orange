@@ -34,8 +34,3 @@ This analysis also invites critical reflection on the effectiveness of previous 
 
 ## Conclusion and Future Projections
 In conclusion, the analysis of customers who have contracted the financial service offers a window into the optimization of marketing strategies. The collected information not only defines the present but also serves as a guide for future initiatives, highlighting the importance of a deep understanding of the customer in the continuous development of successful business strategies.
-
-```bash
-pip install -r requirements.txt
-
-| Access all content | [accede](https://drive.google.com/drive/folders/121syqaxKsMESpAsFes8Fgc9iqLrz_Ry9?usp=sharing) |
